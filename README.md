@@ -7,3 +7,9 @@ Gig markets rely on reviews to help customers or employers identify the workers 
 The tool is self-contained in a Jupyter Notebook, you can run the tool in the cloud by using the Google Colaboratory platform from this [link](https://colab.research.google.com/drive/1K42C6GyWgTr63yoCMkpWro76Kp8KarVB)
 
 Additionaly you can download the Jupyter Notebook file and run it from your system. This the [link](http://hcilab.ml/reputationagent/ReputationAgent.ipynb) to the file.
+
+## Citation
+
+Reputation Agent: Prompting Fair Reviews in Gig Markets
+Carlos Toxtli, Angela Richmond and Saiph Savage
+The Web Conference 2020, Taipei, Taiwan
