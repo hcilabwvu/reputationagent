@@ -4,6 +4,6 @@ Gig markets rely on reviews to help customers or employers identify the workers 
 
 ### Code
 
-The tool is self-contained in a Jupyter Notebook, you can run the tool in the cloud by using the Google Colaboratory platform from this ![link](https://colab.research.google.com/drive/1K42C6GyWgTr63yoCMkpWro76Kp8KarVB)
+The tool is self-contained in a Jupyter Notebook, you can run the tool in the cloud by using the Google Colaboratory platform from this [link](https://colab.research.google.com/drive/1K42C6GyWgTr63yoCMkpWro76Kp8KarVB)
 
-Additionaly you can download the Jupyter Notebook file and run it from your system. This the ![link](http://hcilab.ml/reputationagent/ReputationAgent.ipynb) to the file.
+Additionaly you can download the Jupyter Notebook file and run it from your system. This the [link](http://hcilab.ml/reputationagent/ReputationAgent.ipynb) to the file.
