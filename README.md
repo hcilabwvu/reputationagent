@@ -11,5 +11,7 @@ Additionaly you can download the Jupyter Notebook file and run it from your syst
 ## Citation
 
 Reputation Agent: Prompting Fair Reviews in Gig Markets
+
 Carlos Toxtli, Angela Richmond and Saiph Savage
+
 The Web Conference 2020, Taipei, Taiwan
