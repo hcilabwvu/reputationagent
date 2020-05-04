@@ -12,6 +12,10 @@ The tool is self-contained in a Jupyter Notebook, you can run the tool in the cl
 
 Additionaly you can download the Jupyter Notebook file and run it from your system. This the [link](http://hcilab.ml/reputationagent/ReputationAgent.ipynb) to the file.
 
+## Data
+
+Please complete [this form](https://research.hcilab.ml/reputationagent/agreement_ra.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
+
 ## Citation
 
 Reputation Agent: Prompting Fair Reviews in Gig Markets
